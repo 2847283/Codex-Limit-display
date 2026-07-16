@@ -1,0 +1,27 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+[Pp]ublish/
+
+# Visual Studio and user state
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Tests and coverage
+[Tt]est[Rr]esults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Debug artifacts
+*.pdb
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
